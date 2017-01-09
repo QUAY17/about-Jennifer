@@ -3,20 +3,17 @@
 	<head>
 		<title>about-jennifer Quay	</title>
 		<link rel="stylesheet" type="text/css" href="style.css">
-		<img src="images/Quay front.jpg">
+		<img src="images/quayfront.jpg">
 	</head>
 	<body>
-		<div class="header"
-			<h1>Quay.cnpts: Working in the Studio</h1>
-		<ul>
-			<li>
+		<br>
+		<br>
 				<h2>Artist Statement</h2>
 				<p>I started QUAY.cncpts in 2015 to separate myself from my mass market (sometimes corporate) product design industry
 					past. I wanted to take a year and create a solo body of work that fundamentally
 					changed the perspective of a consumer driven product (in this case: apparel) by challenging
 					the definitive category and end use.</p>
-			</li>
-			<li>
+		<br>
 			<h3>MY APPROACH:</h3>
 				<p>
 					I began by creating fabric sculptures in muslin, an unattractive canvas material
@@ -32,15 +29,12 @@
 					how they are presented, and how they are identified, I intend to give the
 					observer the opportunity to define each piece on their own by drawing from
 						their own experiences.</p>
-			</li>
-			<li>
 				<h3>MY MISSION:</h3>
 					<p>I strive to expand perspective- specifically, the connection between objects
 					and identity. While I have started with a small collection of apparel examples (a
 					familiar product and overlooked resource), my goal and essentially the
 					explanation of my work is to ultimately continue to challenge what identity is,
 					why, and the assumption of definitive categories.</p>
-			</li>
-		</ul>
+
 	</body>
 </html>
