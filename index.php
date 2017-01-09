@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<title>about-jennifer, QUAY.cncpts	</title>
-			<link href="" rel="stylesheet" type="text/css" href="style.css">
+			<link href="https://fonts.googleapis.com/css?family=Covered+By+Your+Grace|Raleway:100,500,600,800" rel="stylesheet" type="text/css" href="style.css">
 	</head>
 	<body>
 		<div class="header">
