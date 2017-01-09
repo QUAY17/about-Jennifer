@@ -1,0 +1,72 @@
+body {
+	background-color: #FFF;
+	margin: 0;
+	padding: 0;
+}
+
+#cover {
+	background: url("https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-8/htmlcss1-img_bicycles.jpeg") no-repeat top center;
+	height: 900px;
+	position: relative;
+	top: -55px;
+	width: 100%;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+ul {
+	padding: 0;
+}
+
+li {
+	color: #14213D;
+	display: inline-block;
+	font-family: 'Abel', sans-serif;
+	font-size: 16px;
+	font-weight: 300;
+	margin: 16px 20px;
+	text-transform: uppercase;
+}
+
+
+
+.cover-content {
+	box-sizing: border-box;
+	margin: 0 auto;
+	position: relative;
+	text-align: center;
+	top: 280px;
+	width: 70%;
+}
+
+h1 {
+	color: #FFF;
+	font-family: 'Amatic SC', cursive;
+	font-size: 72px;
+	line-height: 60px;
+	padding: 20px 10px;
+	text-align: center;
+}
+
+h2 {
+	color: #000;
+	font-family: 'Raleway', sans-serif;
+	font-size: 42px;
+	font-weight: 300;
+	text-align: center;
+}
+
+h3 {
+	color: #14213D;
+	font-family: 'Abel', sans-serif;
+	font-size: 28px;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+p {
+	color: #333;
+	font-family: 'Raleway', sans-serif;
+	font-size: 16px;
+	font-weight: 300;
+}
