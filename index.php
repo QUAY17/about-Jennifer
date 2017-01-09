@@ -25,7 +25,6 @@
 					Purposely drawing focus to a futile process within the industry, I aimed to treat
 					this disposable fabrication in opposition: as a specialty, affected in different
 					ways to appear more expensive, valuable, and influential.</p>
-					<br>
 					<p>
 						To continue my experiment of how we identify objects, I developed a series of
 					garments in clear vinyl. This fabric completely disrupted the style’s intended
