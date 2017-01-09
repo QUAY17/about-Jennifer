@@ -3,9 +3,9 @@
 	<head>
 		<title>about-jennifer, QUAY.cncpts	</title>
 		<link rel="stylesheet" type="text/css" href="style.css">
-		<img src="images/Quay front.jpg">
 	</head>
 	<body>
+		<img src="images/Quay front.jpg">
 		<div class="header">
 			<h1>Quay.cnpts?</h1>
 		</div>
