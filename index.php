@@ -1,15 +1,14 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>about-jennifer, QUAY.cncpts	</title>
+		<title>about-jennifer Quay	</title>
 		<link rel="stylesheet" type="text/css" href="style.css">
+		<img src="images/Quay front.jpg">
 	</head>
 	<body>
-		<div class="header" <img src="images/Quay front.jpg">
-			<h1>Quay.cnpts?</h1>
-		</div>
 		<ul>
-			<li>
+		<li>
+			<h1>Quay.cnpts: Working in the Studio</h1>
 				<h2>Artist Statement</h2>
 				<p>I started QUAY.cncpts in 2015 to separate myself from my mass market (sometimes corporate) product design industry
 					past. I wanted to take a year and create a solo body of work that fundamentally
