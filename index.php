@@ -6,9 +6,10 @@
 		<img src="images/Quay front.jpg">
 	</head>
 	<body>
-		<ul>
-		<li>
+		<div class="header"
 			<h1>Quay.cnpts: Working in the Studio</h1>
+		<ul>
+			<li>
 				<h2>Artist Statement</h2>
 				<p>I started QUAY.cncpts in 2015 to separate myself from my mass market (sometimes corporate) product design industry
 					past. I wanted to take a year and create a solo body of work that fundamentally
