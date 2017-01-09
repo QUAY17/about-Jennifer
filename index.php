@@ -5,8 +5,7 @@
 		<link rel="stylesheet" type="text/css" href="style.css">
 	</head>
 	<body>
-		<img src="images/Quay front.jpg">
-		<div class="header">
+		<div class="header" <img src="images/Quay front.jpg">
 			<h1>Quay.cnpts?</h1>
 		</div>
 		<ul>
