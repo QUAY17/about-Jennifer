@@ -3,6 +3,7 @@
 	<head>
 		<title>about-jennifer, QUAY.cncpts	</title>
 		<link rel="stylesheet" type="text/css" href="style.css">
+		<img src="images/Quay front.jpg">
 	</head>
 	<body>
 		<div class="header">
