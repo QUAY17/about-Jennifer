@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>	QUAY.cncpts	</title>
+		<title>about-jennifer, QUAY.cncpts	</title>
 			<link href="" rel="stylesheet" type="text/css" href="style.css">
 	</head>
 	<body>
 		<div class="header">
-			<h1>Who is Quay.cnpts?</h1>
+			<h1>Quay.cnpts?</h1>
 		</div>
 		<ul>
 			<li>
