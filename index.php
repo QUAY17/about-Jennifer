@@ -37,4 +37,5 @@
 			explanation of my work is to ultimately continue to challenge what identity is,
 			why, and the assumption of definitive categories.</p>
 	</body>
+
 </html>
