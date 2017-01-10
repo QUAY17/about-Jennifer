@@ -3,7 +3,7 @@
 	<head>
 		<title>about-jennifer Quay	</title>
 		<link rel="stylesheet" type="text/css" href="style.css">
-		<img src="images/quayfront.jpg">
+		<img src="images/vinyl.jpg">
 	</head>
 	<body>
 		<br>
