@@ -3,10 +3,9 @@
 	<head>
 		<title>about-jennifer Quay	</title>
 		<link rel="stylesheet" type="text/css" href="style.css">
-		<img src="images/vinyl.jpg">
+		<img src="images/wookie.jpg">
 	</head>
 	<body>
-		<br>
 		<br>
 				<h2>Artist Statement</h2>
 				<p>I started QUAY.cncpts in 2015 to separate myself from my mass market (sometimes corporate) product design industry
