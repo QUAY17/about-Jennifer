@@ -3,7 +3,7 @@
 	<head>
 		<title>about-jennifer</title>
 		<link rel="stylesheet" type="text/css" href="style.css">
-		<img src="vinyl.jpg">
+		<img src="images/vinyl.jpg">
 	</head>
 	<body>
 		<br>
