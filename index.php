@@ -3,9 +3,11 @@
 	<head>
 		<title>about-jennifer Quay	</title>
 		<link rel="stylesheet" type="text/css" href="style.css">
-		<img src="images/wrap.jpg">
 	</head>
 	<body>
+		<div class ="main">
+			<img src="images/wrap.jpg">
+		</div>
 		<br>
 		<br>
 		<h2>Artist Statement</h2>
