@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>about-jennifer Quay	</title>
+		<title>about-jennifer</title>
 		<link rel="stylesheet" type="text/css" href="style.css">
-		<img src="images/wookie.jpg">
+		<p class="wookie"> <img src="images/wookie.jpg"></p>
 	</head>
 	<body>
 		<br>
